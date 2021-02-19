@@ -1,5 +1,8 @@
 # Test Telecom Simple App del Clima
-## 🧐 What's inside?
+
+![Modelo Web](/src/wireframe/wireframe-telecomModeloWeb.jpg)
+
+## 🧐 Arquitectura 
 
 A quick look at the top-level files and directories in this react-weather-app project.
 
@@ -77,7 +80,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## ?Qué hay dentro?
+## ¿Qué hay dentro?
 
 
 1.  **`public`**: Este El directorio contiene todos los activos como imágenes, íconos, manifiesto (PWA) y favicons.
